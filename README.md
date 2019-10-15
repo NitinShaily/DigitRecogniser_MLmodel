@@ -1,4 +1,4 @@
-#DigitRecogniser_MLmodel#  
+**</h>DigitRecogniser_MLmodel</h>**  
 **Famous mnist_digit dataset challenge of** **_Kaggle_**  
 >**PROJECT FEATURES**  :
 >>1.comprise of visualisation of data  
